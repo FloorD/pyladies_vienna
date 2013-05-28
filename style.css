@@ -47,6 +47,7 @@ a img {
 
 a,
 p,
+span,
 h3 {
   font-family: verdana, arial, sans-serif;
   font-size: 14px;
@@ -76,9 +77,16 @@ p {
   margin-bottom: 10px;
 }
 
-span {
+span a,
+span a:hover,
+span a:visited {
   color: #FFF;
   background-color: #fa023c;
+  padding: 10px;
+  float: right;
+  clear: both;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 #index-page {
