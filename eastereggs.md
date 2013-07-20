@@ -40,7 +40,7 @@ True
 </pre>
 
 
-
+<pre>
 http://stackoverflow.com/a/1024693
 rot13 valid source encoding
 
@@ -48,15 +48,14 @@ rot13 valid source encoding
 # -*- coding: rot13 -*-
 
 cevag "Uryyb fgnpxbiresybj!".rapbqr("rot13")
-
-
-
-
+</pre>
 
 
 Conditional Assignment
-
+<pre>
 x = 3 if (y == 1) else 2
+</pre>
+
 
 Wrapping Functions
 
@@ -89,13 +88,19 @@ with open("some_file.txt", "r") as f:
    print f.read()
 </pre>
 
-Easter Eggs:
->>>import __hello__
 
+Easter Eggs:
+<pre>
+>>>import __hello__
+</pre>
+
+<pre>
 >>> from __future__ import braces
   File "<stdin>", line 1
 SyntaxError: not a chance
+</pre>
 
+<pre>
 >>> import this
 The Zen of Python, by Tim Peters
 
@@ -119,11 +124,13 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
+</pre>
 
 http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html
 
 
- >>> import this
+<pre>
+>>> import this
 
 >>> love = this
 >>> this is love
@@ -138,6 +145,8 @@ True
 True
 True
 
+</pre>
 
-
+<pre>
 import antigravity
+</pre>
