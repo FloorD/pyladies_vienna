@@ -12,3 +12,5 @@ PyLadies Vienna slides
 <p>Florian Dorfbauer - How does it all work behind the scenes?</p>
 
 <p>Horst Jens - The joy of Game development</p>
+
+<p>Dražen Lučanin - IPython notebook (<a href="http://nbviewer.ipython.org/5795920">notes</a>)</p>
