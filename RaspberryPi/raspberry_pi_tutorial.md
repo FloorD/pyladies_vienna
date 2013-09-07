@@ -1,3 +1,3 @@
-Arduino tutorial
+Raspberry Pi tutorial
 ===============
 Laura Gaetano
