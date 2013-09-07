@@ -11,7 +11,7 @@ Floor Drees - [Twitter][17] / [GitHub][18]
 Dražen Lučanin  - [Twitter][19] / [GitHub][20]  
 Martin Natano  - [GitHub][21]  
 
-Potential coaches:  
+**Potential coaches:**   
 Andreas Kopecky - [Twitter][5] / [GitHub][6]  
 Andreas Beder - [GitHub][12]   
 Thomas Perl  
