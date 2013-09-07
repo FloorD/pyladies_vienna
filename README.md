@@ -3,7 +3,7 @@ PyLadies Vienna slides
 
 <p>Martin Natano - The Python Universe</p>
 
-<p>Laura Geatano - Making stuff pretty with CSS</p>
+<p>Laura Gaetano - Making stuff pretty with CSS</p>
 
 <p>Stefan Koegl - Introducing pyugat; the Viennese Python user group</p>
 
